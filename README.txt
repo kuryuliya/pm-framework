@@ -1,3 +1,5 @@
+https://www.openbrewerydb.org/documentation/01-listbreweries
+
 Testing approach:
 - Black box testing (no code access) using custom scripts (described in the documentation)
 Testing techniques:
