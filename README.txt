@@ -47,6 +47,9 @@ Negative
 - Get breweries with per_page = 0
 - Get breweries with per_page = 51
 
+I would estimate this task:
+1 day - for examination and making up a checklist
+2 days - implementation
 
 
 
